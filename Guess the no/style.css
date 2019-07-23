@@ -1,0 +1,23 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+    margin: 0px;
+    padding: 300px;
+}
+h1,h2{
+    padding: 10px;
+    color: firebrick;
+}
+button{
+    color: red;
+    padding: 10px;
+    border-radius: 30%;
+    margin: 20px 10px;
+    background-color: aqua;
+    border: 1px solid bisque;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
